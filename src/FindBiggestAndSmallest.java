@@ -28,6 +28,6 @@ public class FindBiggestAndSmallest {
             }
         }
         System.out.println("Największa liczba: " + maxNumber);
-        System.out.println("Największa liczba: " + minNumber);
+        System.out.println("Najmniejsza liczba: " + minNumber);
     }
 }
