@@ -15,7 +15,7 @@ FRAMEWORKA SPRING (BOOT)".
 
 ![Opening](project-java-spring-tjastrz/images/opening.png)
 
-4. IDE should load all required files then. After entering code as written below project may be run. We can also see warning about not finding templates, but it will be changed in next steps:
+4. IDE should load all required files then. Project is ready to run. After running a warning about not finding templates is seen, but it will be changed in next steps:
 
 ![Initial](project-java-spring-tjastrz/images/initial.png)
 
@@ -55,7 +55,7 @@ The folder structure is actually:
 
 ![Static1](project-java-spring-tjastrz/images/static1.png)
 
-However, in the IDE resources folder shows "static.images", which may be misleading. Please keep that in mind. 
+However, in the IDE resources folder shows "static.images", which may be misleading. Keep that in mind. 
 
 ![Static2](project-java-spring-tjastrz/images/static2.png)
 
