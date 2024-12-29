@@ -55,7 +55,7 @@ The folder structure is actually:
 
 ![Static1](project-java-spring-tjastrz/images/static1.png)
 
-However, in the IDE resources folder shows "static.images", which may be misleading. Keep that in mind. 
+However, in the IDE resources folder shows "static.images", it may be misleading. Keep that in mind. 
 
 ![Static2](project-java-spring-tjastrz/images/static2.png)
 
