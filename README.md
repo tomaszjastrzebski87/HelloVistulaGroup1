@@ -10,3 +10,5 @@ Tools for managing this repository:
 src - exercises made during labs
 
 Spring - obligatory homework (Spring Framework)
+
+21122024 Homework - obligatory exercises (remote labs)
