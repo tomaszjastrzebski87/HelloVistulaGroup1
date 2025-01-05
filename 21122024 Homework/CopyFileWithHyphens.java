@@ -2,8 +2,8 @@ import java.io.*;
 
 public class CopyFileWithHyphens {
     public static void main(String[] args) {
-        String sourceFile = "src/cthulhu.txt";
-        String destinationFile = "src/cthulhu-with-hyphens.txt";
+        String sourceFile = "cthulhu.txt";
+        String destinationFile = "cthulhu-with-hyphens.txt";
 
         try (BufferedReader reader = new BufferedReader(new FileReader(sourceFile));
              BufferedWriter writer = new BufferedWriter(new FileWriter(destinationFile))) {
